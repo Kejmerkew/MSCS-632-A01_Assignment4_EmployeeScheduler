@@ -64,7 +64,7 @@ You need to install:
   cargo new scheduler_rust
   cd scheduler_rust
   ```
-3. Replace the contents of src/main.rs with the provided Rust code.
+3. Replace the contents of src/main.rs with the Rust code /rust/src/main.rs.
 4. Build and run the program:
   ```bash
   cargo run
