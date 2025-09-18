@@ -60,10 +60,13 @@ You need to install:
 ## Running the Rust Program
 
 1. Create a new Cargo project:
-   ```bash
+  ```bash
   cargo new scheduler_rust
   cd scheduler_rust
-   ```
+  ```
 3. Replace the contents of src/main.rs with the provided Rust code.
 4. Build and run the program:
+  ```bash
+  cargo run
+  ```
 5. Choose to use sample data or enter employees manually.
