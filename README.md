@@ -19,7 +19,7 @@ It demonstrates control structures (conditionals, loops, branching) and basic sc
 
 ## Prerequisites
 
-You need to install:
+Requirements:
 
 - **C# / .NET SDK**
   - Download from: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)  
