@@ -29,7 +29,10 @@ You need to install:
     ```
 
 - **Rust (with Cargo)**
-  - Install via [Rustup](https://rustup.rs/)  
+  - Install via [Rustup](https://rustup.rs/) (For WSL)
+    ```bash
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    ```
   - Verify install:
     ```bash
     rustc --version
