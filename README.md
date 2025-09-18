@@ -53,3 +53,4 @@ You need to install:
    ```bash
    dotnet run
    ```
+4. Enter employees manually, or use the built-in sample data by typing y.
