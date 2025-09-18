@@ -1,7 +1,7 @@
 # Employee Scheduler (C# & Rust)
 
-This project implements an **employee scheduling application** in two different programming languages: **C# (.NET)** and **Rust**.  
-It demonstrates control structures (conditionals, loops, branching) and basic scheduling logic across paradigms.
+This project implements an employee scheduling application in two different programming languages: C# (.NET) and Rust.
+It demonstrates control structures (conditionals, loops, branching) and basic scheduling logic.
 
 ---
 
