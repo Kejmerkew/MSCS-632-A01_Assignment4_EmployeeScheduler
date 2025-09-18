@@ -8,12 +8,12 @@ It demonstrates control structures (conditionals, loops, branching) and basic sc
 ## Features
 - Collects employee names and preferred shifts (morning, afternoon, evening) for each day.
 - Enforces scheduling rules:
-  - Max **1 shift per day** per employee.
-  - Max **5 days per week** per employee.
-  - At least **2 employees per shift** per day.
+  - Max 1 shift per day per employee.
+  - Max 5 days per week per employee.
+  - At least 2 employees per shift per day.
 - Resolves conflicts when preferred shifts are unavailable.
-- Outputs a **weekly schedule table** with employee assignments.
-- Bonus: supports global **shift priority ranking** (e.g., morning > evening > afternoon).
+- Outputs a weekly schedule table with employee assignments.
+- Bonus: supports global shift priority ranking (e.g., morning > evening > afternoon).
 
 ---
 
