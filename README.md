@@ -45,5 +45,11 @@ You need to install:
 
 1. Create a new console project:
    ```bash
-   dotnet new console -n EmployeeScheduler
-   cd EmployeeScheduler
+   dotnet new console -n DotnetEmployeeScheduler
+   cd DotnetEmployeeScheduler
+   ```
+2. Replace the generated Program.cs with the C# code from /dotnet/Program.cs
+3. Run program
+   ```bash
+   dotnet run
+   ```
