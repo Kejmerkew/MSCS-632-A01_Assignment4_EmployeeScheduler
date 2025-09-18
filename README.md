@@ -41,7 +41,7 @@ You need to install:
 
 ---
 
-## ▶️ Running the C# (.NET) Program
+## Running the C# (.NET) Program
 
 1. Create a new console project:
    ```bash
@@ -54,3 +54,7 @@ You need to install:
    dotnet run
    ```
 4. Enter employees manually, or use the built-in sample data by typing y.
+
+---
+
+## Running the Rust Program
